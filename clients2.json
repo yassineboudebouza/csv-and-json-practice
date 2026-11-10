@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ahmed",
+        "email": "ahmed@gmail.com",
+        "city": "Oran"
+    },
+    {
+        "name": "Riad",
+        "email": "riad@gmail.com",
+        "city": "Algiers"
+    },
+    {
+        "name": "Yassine",
+        "email": "yassine@gmail.com",
+        "city": "Setif"
+    }
+]
